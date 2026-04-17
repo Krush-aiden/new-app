@@ -1,0 +1,39 @@
+{
+  "sections": [
+    {
+      "id": "sec-1",
+      "number": "1",
+      "title": "Introduction",
+      "subtitle": "Overview of the document",
+      "subsections": [
+        {
+          "id": "sub-1-1",
+          "number": "1.1",
+          "title": "Background",
+          "content": "This section covers the background of the issue."
+        },
+        {
+          "id": "sub-1-2",
+          "number": "1.2",
+          "title": "Scope",
+          "content": "Defines the scope of analysis."
+        }
+      ]
+    },
+    {
+      "id": "sec-2",
+      "number": "2",
+      "title": "Findings",
+      "subtitle": null,
+      "subsections": [
+        {
+          "id": "sub-2-1",
+          "number": "2.1",
+          "title": "Key Gaps",
+          "content": "Gap analysis results go here."
+        }
+      ]
+    }
+  ],
+  "highlightedSubsectionIds": ["sub-1-2", "sub-2-1"]
+}
